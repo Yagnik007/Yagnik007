@@ -47,6 +47,10 @@
 <a href="https://github.com/Yagnik007">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yagnik007&layout=compact&theme=radical" />
 </a>
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Yagnik007" alt="visitor badge"/>
+</p>
 <!-- 
 :smiley: **A Junior and a Developer** 
 
